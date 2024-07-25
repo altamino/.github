@@ -7,6 +7,5 @@ It will ALWAYS open source, every issue and pull request will be reviewed if mai
 
 ### Repos:
 - [altamino/api](https://github.com/altamino/api) (api servers)
-- [altamino/web](https://github.com/altamino/web) (web client)
-- [altamino/apps](https://github.com/altamino/apps) (phone apps)
+- [altamino/apps](https://github.com/altamino/apps) (apps to access AltAmino)
 - [altamino/landing](https://github.com/altamino/landing) (landing page)
