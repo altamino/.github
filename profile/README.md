@@ -15,7 +15,7 @@ It will ALWAYS open source, every issue and pull request will be reviewed if mai
 
 Project will be unpaused on December 1, 2024. We will rewrite entire codebase to Golang and will add communities (at least one to test all necessary methods).
 
-Sadly, we can't in original Amino run voice chats since it uses Agora, and this thing is paid, and will cost us a ton of money. We will work later on own voice chats, but it's not important for us now.
+Sadly, we can't in original Amino's app run voice chats since it uses Agora, and this thing is paid, and will cost us a ton of money. We will work later on own voice chats, but it's not important for us now.
 
 Team lead also will try to figure out donations to help us running servers (at least own S3 storage). No promises btw.
 
