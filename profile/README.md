@@ -1,5 +1,5 @@
 # AltAmino
-![Status badge](https://img.shields.io/badge/status-active-brightgreen)
+![Status badge](https://img.shields.io/badge/status-slowly_active-yellow)
 
 AltAmino is project that trying to replicate Amino API servers.
 
@@ -12,10 +12,4 @@ It will ALWAYS open source, every issue and pull request will be reviewed if mai
 
 ## Status details
 
-We are rewriting entire codebase to Golang and trying to add communities (at least one to test all necessary methods).
-
-Sadly, we can't in original Amino's app run voice chats since it uses Agora, and this thing is paid, and will cost us a ton of money. We will work later on own voice chats, but it's not important for us now.
-
-Team lead also will try to figure out donations to help us running servers (at least own S3 storage). No promises btw.
-
-Let's start our new journey to make Amino great again!
+We have no interest in continue project, so when we have time and desire we doin something. We are sorry about that.
