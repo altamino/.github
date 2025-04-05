@@ -1,5 +1,5 @@
 # AltAmino
-![Status badge](https://img.shields.io/badge/status-slowly_active-yellow)
+![Status badge](https://img.shields.io/badge/status-dead-red)
 
 AltAmino is project that trying to replicate Amino API servers.
 
@@ -12,4 +12,12 @@ It will ALWAYS open source, every issue and pull request will be reviewed if mai
 
 ## Status details
 
-We have no interest in continue project, so when we have time and desire we doin something. We are sorry about that.
+We have no interest in continue project, plus Amino is dying as Team Amino doesn't really wanna work at this project. Absolute zero interest in community, 100% interest in money and ads.
+
+I am as team leader shutting this project down. But you can fork it and do whatever you want.
+
+Consider to look at Kyodo (if its still up). DO NOT look at Project Z / Clover space since its just straight dead crypto garbage can.
+
+You can still look at projects that we are cooking.
+
+Thx.
