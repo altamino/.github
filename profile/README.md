@@ -12,7 +12,7 @@ It will ALWAYS open source, every issue and pull request will be reviewed if mai
 
 ## Status details
 
-We have no interest in continue project, plus Amino is dying as Team Amino doesn't really wanna work at this project. Absolute zero interest in community, 100% interest in money and ads.
+We have no interest in continue project, plus Amino is dying as Team Amino doesn't really wanna work to make Amino better or even do smth about Amino. Absolute zero interest in community, 100% interest in money and ads.
 
 I am as team leader shutting this project down. But you can fork it and do whatever you want.
 
