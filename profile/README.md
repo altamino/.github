@@ -17,4 +17,4 @@ Decided to revive project just to see interest, accept PRs, run servers and etc.
 
 Want to help us? You know what to do. 
 
-Want to be maintainer? Contact @shaderw0lf aka The Team Lead.
+Want to be maintainer? Contact @shaderw0lf aka The Team Lead in Discord.
