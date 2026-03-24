@@ -1,5 +1,5 @@
 # AltAmino
-![Status badge](https://img.shields.io/badge/status-dead-red)
+![Status badge](https://img.shields.io/badge/status-semimaintained-yellow)
 
 AltAmino is project that trying to replicate Amino API servers.
 
@@ -7,17 +7,14 @@ It will ALWAYS open source, every issue and pull request will be reviewed if mai
 
 ### Repos:
 - [altamino/api](https://github.com/altamino/api) (api servers)
+- [altamino/websocket](https://github.com/altamino/websocket) (ws servers)
 - [altamino/apps](https://github.com/altamino/apps) (apps to access AltAmino)
 - [altamino/landing](https://github.com/altamino/landing) (landing page)
 
 ## Status details
 
-We have no interest in continue project, plus Amino is dying as Team Amino doesn't really wanna work to make Amino better or even do smth about Amino. Absolute zero interest in community, 100% interest in money and ads.
+Decided to revive project just to see interest, accept PRs, run servers and etc. Also decided to stick w/ Python just because it's easy and wide spreaded language.
 
-I am as team leader shutting this project down. But you can fork it and do whatever you want.
+Want to help us? You know what to do. 
 
-Consider to look at Kyodo (if its still up). DO NOT look at Project Z / Clover space since its just straight dead crypto garbage can.
-
-You can still look at projects that we are cooking.
-
-Thx.
+Want to be maintainer? Contact @shaderw0lf aka The Team Lead.
