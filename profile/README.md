@@ -15,6 +15,7 @@ Project mainly exist as attempt to save a piece of history making it working aga
 
 - [Telegram Channel](https://t.me/altamino)
 - [Telegram Channel (RU)](https://t.me/altamino_ru)
+- [Boosty](https://boosty.to/altamino)
 
 
 ### FAQ
